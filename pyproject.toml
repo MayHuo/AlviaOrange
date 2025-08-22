@@ -21,7 +21,7 @@ classifiers = [
 Homepage = "https://example.com"
 
 [tool.setuptools.packages.find]
-where = ["alviaorange"]
+where = ["."]
 
 [tool.pytest.ini_options]
 minversion = "6.0"
